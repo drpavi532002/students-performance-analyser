@@ -33,7 +33,6 @@ Display interactive charts for each student automatically in slideshow mode.
 Show final class ranking after all students with color-coded scores and metrics for top and lowest performers.
 
 📝 Benefits
-
 Helps educators quickly assess performance trends
 
 Reduces manual calculations and errors
@@ -41,3 +40,5 @@ Reduces manual calculations and errors
 Provides a clear, interactive, and visual way to track academic growth
 
 Suitable for schools, colleges, and coaching centers
+
+Helps educators quickly assess performance trends
